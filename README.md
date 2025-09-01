@@ -1,22 +1,73 @@
-TryHackMe Labs
+🔐 TryHackMe Labs
 
-Welcome to my TryHackMe folder!
 
-This repository documents my progress as I complete various modules, rooms, and challenges on TryHackMe. The platform helps build hands-on cybersecurity skills in areas like offensive security, defensive security, network analysis, and more.
+Welcome to my TryHackMe Labs Repository!
 
-Purpose
-🌟 To reinforce my cybersecurity knowledge through practical, scenario-based learning.
-🌟 To develop and showcase my skills in penetration testing, ethical hacking, incident response, and related domains.
-🌟 To create notes and artifacts I (and others!) can refer back to for study or project work.
-Structure
-Each subfolder in this repository will correspond to a specific TryHackMe room or module. Inside, you’ll find:
+This repository documents my journey as I progress through various TryHackMe modules, rooms, and challenges. TryHackMe is a hands-on platform that strengthens skills in cybersecurity, penetration testing, and digital forensics through real-world scenarios.
 
-Notes and summaries
-Screenshots of key steps or results (where appropriate)
-Scripts, configs, or commands I used
-Reflections and lessons learned
-Modules Completed / In Progress
-Offensive Security Intro (in progress)
-(More to come — stay tuned!)
-Disclaimer
-All activities are conducted in legal, controlled environments as part of educational exercises on TryHackMe.
+
+🎯 Purpose
+
+🚀 Reinforce cybersecurity knowledge with practical, scenario-based learning.
+
+🔍 Build and showcase expertise in penetration testing, ethical hacking, incident response, and threat analysis.
+
+📝 Provide detailed notes, scripts, and artifacts for study and future projects.
+
+
+🗂️ Repository Structure
+
+Each subfolder corresponds to a specific TryHackMe room or module and includes:
+
+📝 Notes and detailed summaries
+
+📸 Screenshots of key steps and results (when appropriate)
+
+🧩 Scripts, configurations, and commands
+
+💡 Reflections, key takeaways, and lessons learned
+
+
+📚 Modules Completed / In Progress
+
+✅ Offensive Security Intro (In Progress)
+📌 More modules coming soon — stay tuned!
+
+
+⚠️ Disclaimer
+
+All activities documented here are performed in legal, sandboxed environments on TryHackMe and are for educational purposes only.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
