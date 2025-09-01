@@ -1,4 +1,4 @@
-##TryHackMe Labs
+TryHackMe Labs
 
 Welcome to my TryHackMe folder!
 
