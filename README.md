@@ -1,21 +1,21 @@
-🔐 TryHackMe Labs
+# TryHackMe Labs
 
 
-Welcome to my TryHackMe Labs Repository!
+Welcome to my **TryHackMe** Labs Repository!
 
 This repository documents my journey as I progress through various TryHackMe modules, rooms, and challenges. TryHackMe is a hands-on platform that strengthens skills in cybersecurity, penetration testing, and digital forensics through real-world scenarios.
 
 
-🎯 Purpose
+## Purpose
 
-🚀 Reinforce cybersecurity knowledge with practical, scenario-based learning.
+- 🌟 Reinforce cybersecurity knowledge with practical, scenario-based learning.
 
-🔍 Build and showcase expertise in penetration testing, ethical hacking, incident response, and threat analysis.
+- 🌟 Build and showcase expertise in penetration testing, ethical hacking, incident response, and threat analysis.
 
-📝 Provide detailed notes, scripts, and artifacts for study and future projects.
+- 🌟 Provide detailed notes, scripts, and artifacts for study and future projects.
 
 
-🗂️ Repository Structure
+## Repository Structure
 
 Each subfolder corresponds to a specific TryHackMe room or module and includes:
 
@@ -28,16 +28,18 @@ Each subfolder corresponds to a specific TryHackMe room or module and includes:
 💡 Reflections, key takeaways, and lessons learned
 
 
-📚 Modules Completed / In Progress
+## Modules Completed / In Progress
 
-✅ Offensive Security Intro (In Progress)
+- **Start Your Cyber Security Journey**
+- **Windows and AD Fundamentals**
+- **Command Line**
+
 📌 More modules coming soon — stay tuned!
 
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer 
 
 All activities documented here are performed in legal, sandboxed environments on TryHackMe and are for educational purposes only.
-
 
 
 
